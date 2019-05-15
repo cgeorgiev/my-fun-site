@@ -33,7 +33,7 @@ const HomePage = () => (
         <h1>{title}</h1>
         <small>Created on {date}</small>
         <img src={url} />
-        <p>{content.content}</p>
+        <p>{content}</p>
       </>
     )}
   />
